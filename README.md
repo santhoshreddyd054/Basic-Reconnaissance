@@ -44,3 +44,6 @@ Scanning ports (1-1024)...
 Open ports: 22, 80, 443
 ```
 <img width="1337" height="633" alt="Screenshot 2025-11-20 183438" src="https://github.com/user-attachments/assets/885ded58-3966-4e37-8ceb-856411077888" />
+
+## PR-Agent Test
+This change was added to test Pull Request creation for PR-Agent integration.
